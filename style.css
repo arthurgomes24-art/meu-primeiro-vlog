@@ -35,3 +35,10 @@ justify-content: center;
 margin-top: 50px;
 width: 80%;
 }
+
+#carro{
+ width: 100%;
+ height: auto;
+ border-radius: 10px;
+ margin-top: 20px;
+}
